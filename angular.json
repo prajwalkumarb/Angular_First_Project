@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "D:/Office/Angular/angular start19-11-23/ShoppingApp/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "dbbcf096-5115-4b5d-961f-2541b7028156"
   }
 }
